@@ -1,0 +1,190 @@
+.wrap_all {
+   padding: 0;
+   margin: 0;
+   font-family: 'Nanum Gothic', sans-serif;
+   box-sizing: border-box;
+}
+
+.all_list {
+    width: 780px;
+    height: 660px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.left_list01{
+    width: 378px;
+    height: 645px;
+    border: 1px solid #e4e4e4;
+    border-radius: 2px;
+    float:left;
+    margin-bottom: 10px; 
+    margin-left:10px;   
+
+}
+
+/* .left_list02{
+    width: 378px;
+    height: 645px;
+    border: 1px solid #e4e4e4;
+    border-radius: 2px;
+    float: right;
+    margin-bottom: 10px;
+    
+
+} */
+
+.product_image {
+   
+}
+
+.group_01 {
+    
+}
+
+.number {
+    width: 60px;
+    height: 60px;
+    background-color: #3262cf;
+    background-image: url(http://gi.esmplus.com/sayble2011/SEWON/number.png);
+    text-align: center;
+    line-height: 60px;
+    margin-left: 20px;
+    display: inline-block;
+    border: 1px solid #3262cf;
+    border-radius: 5px;
+    
+}
+
+.number p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    color: white;
+    font-size: 45px;
+    font-weight: 800;
+
+}
+
+.brand {
+
+    display: inline-block;
+    font-size: 25px;
+    vertical-align: bottom;
+    color: #2e5d8b;
+    letter-spacing: -3px;
+
+}
+
+.product_name {
+    letter-spacing: -2px;
+    font-weight: 800;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 45px;
+}
+
+
+
+.product_info {
+    display: inline-block;
+    margin-left: 20px; 
+
+}
+
+
+.product_price1 {
+    display: inline-block;
+    line-height: 42px;
+    width: 328px;
+    height: 42px;
+    background-color: #1b3d60;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: white;
+    border: 1px solid #1b3d60;
+    border-radius: 14px;
+    padding-left: 10px;
+}
+
+.product_price2 {
+    
+    width: 330px;
+    height: 42px;
+    line-height: 42px;
+    background-color: #2e5c8d;
+    margin-left: 20px;
+    margin-top: 8px;
+    color: white;
+    border-radius: 14px;
+    padding-left: 10px;
+
+}
+
+.title {
+    font-weight: 800;
+
+    font-size: 25px;
+}
+
+.sub {
+    font-size: 17px;
+}
+
+.normal_price {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 22px;
+    vertical-align: top;
+ 
+}
+
+.price_01 {
+    display: inline-block;
+    margin-left: 60px;
+    font-size: 35px;
+    font-weight: bold;
+
+    
+}
+
+.price_won {
+    display: inline-block;
+    font-size: 18px;
+    vertical-align: top;
+
+    
+}
+
+.bottom_null {
+    display: inline-block;
+    width: 300px;
+    height: 800px;
+}
+
+.plus {
+    float: right;
+    display: block;
+    background-image: url(http://gi.esmplus.com/sayble2011/SEWON/plus.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 28px;
+    height: 28px;
+    margin-right: 15px;
+    margin-top: 7px;
+
+
+}
+
+.plus1 {
+    float: right;
+    display: block;
+    background-image: url(http://gi.esmplus.com/sayble2011/SEWON/plus2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 28px;
+    height: 28px;
+    margin-right: 15px;
+    margin-top: 7px;
+
+}
