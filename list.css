@@ -31,7 +31,6 @@
     float: right;
     margin-bottom: 10px;
     
-
 } */
 
 .product_image {
@@ -151,8 +150,9 @@
 }
 
 .price_01 {
+    
+    float: right;
     display: inline-block;
-    margin-left: 120px;
     font-size: 28px;
     font-weight: bold;
     text-decoration: line-through;
@@ -162,8 +162,8 @@
     
 }
 .price_02 {
+    float:right;
     display: inline-block;
-    margin-left: 120px;
     font-size: 28px;
     font-weight: 800;
     color: red;
@@ -174,12 +174,15 @@
 }
 
 .price_won {
-    display: inline-block;
+  
+  
+    float:right;
     font-size: 18px;
     vertical-align: top;
     font-weight: 600;
     color: #858585;
-
+    margin-right:15px;
+    
     
 }
 
@@ -188,5 +191,3 @@
     width: 300px;
     height: 800px;
 }
-
-
