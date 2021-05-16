@@ -164,9 +164,9 @@
 }
 
 .price_01 {
-    
-    float:right;
-    display: inline-block;
+
+    display: block;
+    float: right;
     font-size: 33px;
     font-weight: 800;
     color: #d10f0f;
@@ -178,8 +178,8 @@
     
 }
 .price_02 {
-    float:right;
-    display: inline-block;
+    float: right;
+    display: block;
     font-size: 34px;
     font-weight: 800;
     color: red;
