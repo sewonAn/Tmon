@@ -82,7 +82,7 @@
     font-weight: 700;
     font-family: 'Noto Sans KR';
     margin-left: 20px;
-    margin-top:-5px;
+    margin-top:-10px;
     
 
 }
@@ -91,12 +91,13 @@
     letter-spacing: -2px;
     font-weight: 700;
     margin-left: 20px;
-    font-size: 29px;
+    font-size: 27px;
     color: #484848;
     font-family: 'Noto Sans KR';
     font-weight: 600;
     line-height: 80%;
     margin-bottom:10px;
+
 }
 
 
@@ -117,7 +118,7 @@
     height: 60px;
     background-image: url("https://pricehunter.diskn.com/37QJOG2cJm");
     margin-left: 10px;
-    margin-top: 15px;
+    margin-top: 22px;
     color: white;
     padding-left: 5px;
 
@@ -167,7 +168,6 @@
     vertical-align: middle;
     line-height: 60px;
     padding-left: 10px;
-    
 }
 
 .price_01 {
